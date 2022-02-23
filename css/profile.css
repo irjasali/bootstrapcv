@@ -131,3 +131,11 @@ body {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.05);
 }
+
+.text-center--color {
+background-color: #91afbb;
+color: black;
+}
+.footer--color {
+    color: rgb(40, 51, 58);
+}
