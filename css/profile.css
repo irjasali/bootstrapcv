@@ -106,6 +106,7 @@ body {
 .card__borde--redes:hover {
     cursor: pointer;   
     box-shadow: 0px 5px 0px 0px #08B1DB;
+    /* border: 1px solid #91afbb; */
 }
 
 .card__borde {
@@ -116,6 +117,7 @@ body {
 }
 .card__borde:hover {
     box-shadow: 3px 4px 8px 0px #7E8182;
+    border: 1px solid #91afbb;
     cursor: pointer;
 }
 
@@ -138,4 +140,9 @@ color: black;
 }
 .footer--color {
     color: rgb(40, 51, 58);
+}
+span {
+   
+   
+
 }
